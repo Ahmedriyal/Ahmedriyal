@@ -2,7 +2,7 @@
 <!-- <h3 align="center">I'm a undergrad student, web developer and learner.</h3> -->
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href=""><img src="https://readme-typing-svg.herokuapp.com/?lines=CSE%20Grad%20;Web%20Developer;Learner&center=true&width=440&height=45&vCenter=true&size=22"></a>
+  <a href=""><img src="https://readme-typing-svg.herokuapp.com/?lines=CSE%20Grad%20;Web%20Developer;Learner;Python%20;Django%20&center=true&width=440&height=45&vCenter=true&size=22"></a>
 </p>
 
 - I’m currently working on **[eHealthcare System]()**
